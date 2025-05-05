@@ -1,0 +1,246 @@
+---
+title: "Research Methods in Psychology"
+subtitle: "<br/>Lab 9. Submission of the Entire Proposal and 'Beyond Research Methods and Statistics' "
+author: "Ihnwhi Heo (iheo2@ucmerced.edu)"
+institute: "Quantitative Methods, Measurement, and Statistics<br>Website: https://ihnwhiheo.github.io<br>Office: https://ucmerced.zoom.us/j/2093557522 (Monday 3 - 5 pm)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [merced.css, rutgers-fonts]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: center, middle, title-slide
+      ratio: "16:9"
+
+---
+
+# Today is our final lab!
+
+## How are you?
+
+<center>
+<img src="img/nopsy015.png" width = 417>
+</center>
+
+---
+
+# What are we going to do?
+
+## Submission of the entire proposal (Assignment 9)
+
+### A big picture
+
+### Assignment 9 rubrics and tips
+
+<br>
+
+## Beyond methods and statistics: Metascience
+
+---
+
+# A big picture
+
+## Conducting psychological research
+
+### Asking psychological research questions (Assignment 1)
+
+### Reviewing and summarizing relevant articles (Assignments 2, 3, and 4)
+
+### Writing the introduction section (Assignment 6)
+
+### Writing the methods section (Assignments 5 and 7)
+
+---
+
+# A big picture
+
+## What is the next step?
+
+### Combine all together based on comments/feedback
+
+- ### Response letters
+
+- ### Revise the title page, intro, method, references, and appendix 
+
+---
+
+# A big picture
+
+## Revision is painful!
+
+<center>
+<img src="img/stages_revision.jpg" width = 1000>
+</center>
+
+---
+
+# Submission of the entire proposal
+
+## Assignment 9 rubrics
+
+### How to submit the entire proposal
+
+- ### Response letter (5pt) <br> State how you addressed the comments/feedback about all five sections
+
+- ### Entire proposal (5pt) <br> Include revised title, intro, methods, references, and appendix
+
+### Format and deadline
+
+- ### Follow the APA style and due at 9 am on November 29 (No late work will be accepted)
+
+---
+
+# Submission of the entire proposal
+
+## Response letter (5pt)
+
+### Purpose is to mimic the journal submission process
+
+### Summarize my comments/feedback for five components
+
+### Explain how you addressed my comments/feedback
+
+<br>
+
+## Show an example...
+
+---
+
+# Submission of the entire proposal
+
+## Entire proposal (5pt)
+
+### Combine all five components in the order of...
+
+- ### Title, intro, methods, references, and appendix
+
+### Again, be sure to follow the APA 7th formatting
+
+<br>
+
+## Show an example...
+
+---
+
+# Metascience
+
+## Beyond psychological methods and statistics
+
+### We have learned methods (PSY015) and statistics (PSY010)
+
+### So any psychological research would be perfect and rigorous, do you agree?
+
+---
+
+# Metascience
+
+## The replication crisis in psychology
+
+### Only 36% of the significant findings were replicable
+
+<center>
+<img src="img/lab13-repro1.png" width=700>
+</center>
+
+---
+
+# Metascience
+
+## Researcher degrees of freedom
+
+### Inherent flexibility in conducting research and analyzing its results
+
+.pull-left[
+<img src="img/researcherdf.png" width=500>
+]
+
+.pull-right[
+<img src="img/meta1.jpeg" width=500>
+]
+
+---
+
+# Metascience
+
+## Questionable research practices to obtain significant p-values
+
+<center>
+<img src="img/lab13-repro2.png" width=1000>
+</center>
+
+---
+
+# Metascience
+
+## A movement to redefine or ban the p-value
+
+<center>
+<img src="img/lab13-repro3.png" width=600>
+</center>
+
+---
+
+# Metascience
+
+## Stop using p-values!
+
+### Prof. Dr. Rens van de Schoot (https://www.youtube.com/watch?v=owb5A8lVS0o)
+
+.pull-left[
+<center>
+<img src="img/lab13-stopp.png" width=600 height=270>
+</center>
+]
+
+.pull-right[
+<iframe width="600" height="270" src="https://www.youtube.com/embed/owb5A8lVS0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]
+
+---
+
+# Metascience
+
+## Open science movement
+
+.pull-left[
+<img src="img/lab13-repro4.png" width=500>
+]
+
+.pull-right[
+<img src="img/jaspteam.png" width=500>
+]
+
+---
+
+# Concluding remark
+
+## What I want to convey to you...
+
+### Be critical in doing everything in your life
+
+### Be transparent in doing science
+
+### Enjoy your undergraduate life (jealous of you!)
+
+---
+
+# Before you go home...
+
+## Any ***FINAL*** questions or comments?
+
+<center>
+<img src="img/kakao-week13-message.jpeg" width = 400>
+</center>
+
+---
+
+# Thank you for the great semester! Cheers!
+
+## Happy Thanksgiving!
+
+<center>
+<img src="img/kakao-week13.jpeg" width = 417>
+</center>
+

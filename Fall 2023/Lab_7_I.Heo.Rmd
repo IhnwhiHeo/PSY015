@@ -1,0 +1,196 @@
+---
+title: "Research Methods in Psychology"
+subtitle: '<br/>Lab 7. "You Have My Sword, and My Bow, and My Axe" Appendix with References'
+author: "Ihnwhi Heo (iheo2@ucmerced.edu)"
+institute: "Quantitative Methods, Measurement, and Statistics<br>Website: https://ihnwhiheo.github.io<br>Office: https://ucmerced.zoom.us/j/2093557522 (Monday 3 - 5 pm)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [merced.css, rutgers-fonts]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: center, middle, title-slide
+      ratio: "16:9"
+
+---
+
+# What are we going to do?
+
+## Appendix with references (Assignment 7)
+
+### A big picture
+
+### Assignment 7 rubrics
+
+### Assignment tips
+
+---
+
+# A big picture
+
+## Conducting psychological research
+
+### Asking psychological research questions (Assignment 1)
+
+### Reviewing relevant articles (Assignment 2)
+
+### Reading and summarizing relevant articles (Assignments 3 and 4)
+
+### Operationalizing and measuring variables (Assignment 5)
+
+### Writing the introduction (Assignment 6)
+
+---
+
+# A big picture
+
+## What is the next step?
+
+### Writing more!
+
+- ### Writing the Methods section, part 1
+
+- ### Focus on the measurement aspect
+
+- ### Which measures you will use? (recall assignment 5)
+
+---
+
+# Appendix with references
+
+## Assignment 7 rubrics
+
+### Submitting surveys/questionnaires of your research proposal
+
+- ### Cover page
+
+- ### Demographics
+
+- ### Surveys/questionnaires
+
+- ### References section
+
+### **See the rubrics on CatCourses!**
+
+---
+
+# Appendix with references
+
+## Cover page
+
+### 'Appendix' on top
+
+### Table of contents
+
+### Your name, title of your research proposal, research question, and IV/DV
+
+### **Show rubrics...**
+
+---
+
+# Appendix with references
+
+## Demographics
+
+### Age
+
+### Gender/sex
+
+### Race/ethnicity
+
+### **Show rubrics...**
+
+---
+
+# Appendix with references
+
+## Survey/questionnaires
+
+### Revisit your assignment 5
+
+### Copy and paste the actual survey/questionnaires
+
+### In a visually pleasing way
+
+### There should be at least two references (those from assignment 5)
+
+### **Show rubrics...**
+
+---
+
+# Appendix with references
+
+## References section
+
+### Follow the APA style
+
+### Copy and paste the references for your assignment 5
+
+- ### Check if those references were correctly formatted
+
+### **Show rubrics...**
+
+---
+
+# Appendix with references
+
+## Some expected questions
+
+### How can I find the original survey/questionnaires?
+
+- ### See the appendix of the original article
+
+- ### See the methods section or the tables of the original article
+
+- ### Web search
+
+- ### Indeed, you need to take some digging
+
+---
+
+# Appendix with references
+
+## Some expected questions
+
+### What if I can never find the original survey/questionnaires?
+
+- ### Borrow items from similar but slightly different survey/questionnaires
+
+- ### For the sake of this assignment, change wording
+
+- ### In reality, you need to go through the scale development and validation
+
+- ### Be sure to add references that you borrowed the items
+
+---
+
+# Appendix with references
+
+## Assignment 7 formats
+
+### For the references section, follow the APA style
+
+### For the other sections, present the content in a visually pleasing way
+
+## Assignment 7 deadline
+
+### Due at 9 am on November 8
+
+### No late work will be accepted except for extreme or emergent circumstances
+
+---
+
+# Before you go home...
+
+## Any questions or comments?
+
+---
+
+# Thanks! Have a good one!
+
+<center>
+<img src="img/kakao-week8.jpeg" width = 480>
+</center>
+

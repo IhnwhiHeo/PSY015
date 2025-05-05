@@ -1,0 +1,134 @@
+---
+title: "Research Methods in Psychology"
+subtitle: '<br/>Lab 5. "Are You Happy?" Previous Operationalization'
+author: "Ihnwhi Heo (iheo2@ucmerced.edu)"
+institute: "Quantitative Methods, Measurement, and Statistics<br>Website: https://ihnwhiheo.github.io<br>Office: https://ucmerced.zoom.us/j/2093557522 (Monday 3 - 5 pm)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [merced.css, rutgers-fonts]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: center, middle, title-slide
+      ratio: "16:9"
+
+---
+
+# What are we going to do?
+
+## Previous operationalization (Assignment 5)
+
+### Why are we doing this?
+
+### How to be successful on Assignment 5
+
+### Assignment 5 rubrics
+
+---
+
+# A big picture
+
+## Conducting psychological research
+
+### Asking psychological research questions (assignment 1)
+
+### Reviewing relevant articles (assignment 2)
+
+### Reading and summarizing relevant articles (assignments 3 and 4)
+
+---
+
+# A big picture
+
+## What is the next step?
+
+### Measuring variables of interest
+
+- ### How did previous studies measure variables?
+
+- ### Was the previous measurement original or from other previous works?
+
+- ### Can you think of how your research can measure variables?
+
+---
+
+# A big picture
+
+## Variables in psychology are usually latent (i.e., unobservable)
+
+<center>
+<img src="img/psych var.jpeg" width = 690>
+</center>
+
+---
+
+# Previous operationalization
+
+## Operational definition
+
+### Defines a construct by specifying the procedures used to measure it
+
+- ### How can we measure happiness? <br> Scores on satisfaction with life scale
+
+- ### How can we measure stress? <br> Scores on perceived stress scale
+
+- ### How can we measure peer engagement? <br> The number of minutes engaging in parallel play or interactive play with peers
+
+---
+
+# Previous operationalization
+
+## Assignment 5 rubrics
+
+### State your research question
+
+### List your IV and describe at least two ways it has been operationally defined in the past
+
+### List your DV and describe at least two ways it has been operationally defined in the past
+
+### List references for the different methods of measurement you describe
+
+### Not only the reference you read but also the reference that previous researchers cited
+
+---
+
+# Previous operationalization
+
+## How to be successful on assignment 5?
+
+### Open the rubrics file and explain them...
+
+### Give an example of how to do the assignment...
+
+---
+
+# Previous operationalization
+
+## Assignment 5 formats
+
+### Type this assignment using Times New Roman 12 pt
+
+### APA formatting for the reference
+
+## Assignment 5 deadline
+
+### Due at 9 am on October 11
+
+### No late work will be accepted except for extreme or emergent circumstances
+
+---
+
+# Before you go home...
+
+## Any questions or comments?
+
+---
+
+# Thanks! Have a good one!
+
+<center>
+<img src="img/kakao-week6.jpeg" width = 700>
+</center>
+
